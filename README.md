@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, My Name Sanaul Habib</h1>
+<h1 align="center">Hi 👋, My Name Is Sanaul Habib</h1>
 <h3 align="center">Data Analyst | Accounting Graduate | Excel & SQL Enthusiast</h3>
 
 <p align="center">
