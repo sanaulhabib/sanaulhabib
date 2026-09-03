@@ -1,5 +1,5 @@
 **SANAUL HABIB** 
->**Data Analyst | Accounting Graduate **
+>Data Analyst | Accounting Graduate
 
 I'm a **Data Analyst and Accounting Graduate** passionate about transforming raw data into meaningful insights that can drive better business decisions.
 I work with **Excel, SQL, and Power BI** for data analysis, data cleaning, reporting, and interactive data visualization, as well as **Tally Prime** for bookkeeping and accounts management.
