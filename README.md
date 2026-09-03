@@ -1,5 +1,11 @@
-<h1 align="center">Hi 👋, My Name Is Sanaul Habib</h1>
-<h3 align="center">Data Analyst | Accounting Graduate | Excel & SQL Enthusiast</h3>
+Sanaul Habib
+>**Data Analyst | Accounting Graduate **
+
+I'm a **Data Analyst and Accounting Graduate** passionate about transforming raw data into meaningful insights that can drive better business decisions.
+I work with **Excel, SQL, and Power BI** for data analysis, data cleaning, reporting, and interactive data visualization, as well as **Tally Prime** for bookkeeping and accounts management.
+
+My background in accounting gives me a strong understanding of **business, financial data, and analytical thinking**. I enjoy analyzing business data, identifying trends, building dashboards, and presenting insights in a clear and meaningful way.
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sanaulhabib&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
@@ -15,14 +21,6 @@
 
 ---
 
-### 🎯 About Me
-- 🎓 BBA in Accounting — National University
-- 📊 I turn messy, raw data into clean dashboards and clear insights
-- 🧮 Strong foundation in bookkeeping, accounts & financial data
-- 🌱 Currently sharpening my skills and building real-world data projects
-- 💼 Available for freelance data cleaning, dashboarding & document formatting work
-
----
 
 ### 🛠️ Languages & Tools
 
@@ -35,7 +33,3 @@
 </p>
 
 
----
-
-
-<p align="center">⭐️ Thanks for visiting my profile — let's connect!</p>
