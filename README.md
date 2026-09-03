@@ -4,11 +4,11 @@
   <strong>Data Analyst | Accounting Graduate</strong>
 </p>
 <p align="justify">
-I'm a **Data Analyst and Accounting Graduate** passionate about transforming raw data into meaningful insights that can drive better business decisions.
-I work with **Excel, SQL, and Power BI** for data analysis, data cleaning, reporting, and interactive data visualization, as well as **Tally Prime** for bookkeeping and accounts management.
+I'm a <b>Data Analyst and Accounting Graduate</b> passionate about transforming raw data into meaningful insights that can drive better business decisions.
+I work with <b>Excel, SQL, and Power BI</b> for data analysis, data cleaning, reporting, and interactive data visualization, as well as <b>Tally Prime</b> for bookkeeping and accounts management.
 </p>
 <p align="justify">
-My background in accounting gives me a strong understanding of **business, financial data, and analytical thinking**. I enjoy analyzing business data, identifying trends, building dashboards, and presenting insights in a clear and meaningful way.
+My background in accounting gives me a strong understanding of <b>business, financial data, and analytical thinking</b>. I enjoy analyzing business data, identifying trends, building dashboards, and presenting insights in a clear and meaningful way.
 </p>
 
 ### 🛠️ Languages & Tools
