@@ -1,16 +1,55 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, My Name Sanaul Habib</h1>
+<h3 align="center">Data Analyst | Accounting Graduate | Excel & SQL Enthusiast</h3>
 
-<!--
-**sanaulhabib/sanaulhabib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sanaulhabib&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/badge/BBA-Accounting-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20to-Freelance%20Work-brightgreen?style=for-the-badge" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="[YOUR_FIVERR_LINK]"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" /></a>
+  <a href="[YOUR_LINKEDIN_LINK]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:[YOUR_EMAIL]"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🎯 About Me
+- 🎓 BBA in Accounting — National University
+- 📊 I turn messy, raw data into clean dashboards and clear insights
+- 🧮 Strong foundation in bookkeeping, accounts & financial data
+- 🌱 Currently sharpening my skills and building real-world data projects
+- 💼 Available for freelance data cleaning, dashboarding & document formatting work
+
+---
+
+### 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tally%20Prime-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" />
+</p>
+
+---
+
+### 📂 Featured Projects
+<!-- Replace these with your own repo links once you upload projects -->
+- 📁 **[Project Name]** — short one-line description of what it does
+- 📁 **[Project Name]** — short one-line description of what it does
+- 📁 **[Project Name]** — short one-line description of what it does
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sanaulhabib&show_icons=true&theme=default" alt="GitHub stats" />
+</p>
+
+---
+
+<p align="center">⭐️ Thanks for visiting my profile — let's connect!</p>
