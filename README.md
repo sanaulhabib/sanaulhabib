@@ -34,13 +34,6 @@
   <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" />
 </p>
 
----
-
-### 📂 Featured Projects
-<!-- Replace these with your own repo links once you upload projects -->
-- 📁 **[Project Name]** — short one-line description of what it does
-- 📁 **[Project Name]** — short one-line description of what it does
-- 📁 **[Project Name]** — short one-line description of what it does
 
 ---
 
