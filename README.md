@@ -9,6 +9,8 @@ I work with <b>Excel, SQL, and Power BI</b> for data analysis, data cleaning, re
 My background in accounting gives me a strong understanding of <b>business, financial data, and analytical thinking</b>. I enjoy analyzing business data, identifying trends, building dashboards, and presenting insights in a clear and meaningful way.
 </p>
 
+---
+
 ### 🌐 Get in Touch
 If you'd like to collaborate on a data project or have any opportunities, let's connect:
 
