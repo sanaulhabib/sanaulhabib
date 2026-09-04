@@ -17,6 +17,8 @@ If you'd like to collaborate on a data project or have any opportunities, let's 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanaul-habib/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=sanaul.habib12@gmail.com)
 
+---
+
 ### 🛠️ Tools & Technologies
 
 ![Excel](https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
