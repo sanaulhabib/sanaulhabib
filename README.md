@@ -1,8 +1,6 @@
-<h1 align="left">Sanaul Habib</h1>
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi there, I'm Sanaul Habib
 
-<p align="left">
-  <strong>Data Analyst | Accounting Graduate</strong>
-</p>
+
 <p align="justify">
 I'm a <b>Data Analyst and Accounting Graduate</b> passionate about transforming raw data into meaningful insights that can drive better business decisions.
 I work with <b>Excel, SQL, and Power BI</b> for data analysis, data cleaning, reporting, and interactive data visualization, as well as <b>Tally Prime</b> for bookkeeping and accounts management.
