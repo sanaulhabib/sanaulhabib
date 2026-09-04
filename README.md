@@ -11,14 +11,11 @@ I work with <b>Excel, SQL, and Power BI</b> for data analysis, data cleaning, re
 My background in accounting gives me a strong understanding of <b>business, financial data, and analytical thinking</b>. I enjoy analyzing business data, identifying trends, building dashboards, and presenting insights in a clear and meaningful way.
 </p>
 
-### 🛠️ Languages & Tools
+### 🛠️ Tools & Technologies
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tally%20Prime-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" />
-</p>
-
-
+![Excel](https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/POWER_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-217346?style=for-the-badge&logo=microsoft&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/GOOGLE_SHEETS-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+![Tally Prime](https://img.shields.io/badge/TALLY_PRIME-00529B?style=for-the-badge&logo=tally&logoColor=white)
