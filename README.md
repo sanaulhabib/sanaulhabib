@@ -10,7 +10,9 @@ I work with <b>Excel, SQL, and Power BI</b> for data analysis, data cleaning, re
 <p align="justify">
 My background in accounting gives me a strong understanding of <b>business, financial data, and analytical thinking</b>. I enjoy analyzing business data, identifying trends, building dashboards, and presenting insights in a clear and meaningful way.
 </p>
-### 📫 Connect with Me
+
+### 🌐 Get in Touch
+If you'd like to collaborate on a data project, discuss business analytics, or explore opportunities, let's connect:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanaul-habib/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=sanaul.habib12@gmail.com)
